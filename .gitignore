@@ -3,7 +3,4 @@
 __pycache__/
 
 
-*.png
-*.pdf
-
 simulation_results/
