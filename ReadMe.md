@@ -24,36 +24,37 @@ The figures geenrated when running the notebook are stored in folder  **`figures
 # How to reproduce the results:
 After clonning the repository, open a terminal in the root folder of the project.
 
-    - First install the requirements in the file **`requiremnts.txt`** using conda
+- First install the requirements in the file **`requiremnts.txt`** using conda
     
-        ```bach
-        # Create a new environment
-        conda create --name Grest2025_ID1493
-        # Activate environment
-        conda activate Grest2025_ID1493
-        # Install dependencies
-        conda install --yes --file requirements.txt
-        ```
+    ```Shell
+    # Create a new environment
+    conda create --name Grest2025_ID1493
+    # Activate environment
+    conda activate Grest2025_ID1493
+    # Install dependencies
+    conda install --yes --file requirements.txt
+    ```
         
-    - Open jupyter notebook by typing in the terminal:
+- Open jupyter notebook by typing in the terminal:
     
-        ```bach
-        jupyter notebook
-        ```
+    ```bash
+    jupyter notebook
+    ```
+
         
-    - Open the notebook
+- Open the notebook
     **`Code_paper_Gretsi2025_Bayesian_Modeling_of_percept_Change`**
     
-    - Click on Run -> Run all cells
+- Click on Run -> Run all cells
 
 Running the notebook will:
-  - Run the simualtion of the model of Huguet et al. [5]
-  - Extract the domiance times of the perceptual sequence
-  - Fit distributions to the dominance times
-  - Fit a model on the distribution of the input firing rates difference $\Delta I$ conditional to the time to percept switch $D$
-  - Generate the posterior distribution of the time to change of percept given $\Delta I$
-  - Display this distribution on a short simulation of the model
-  - Save all the figures presented in the paper in the folder `figures`
+- Run the simualtion of the model of Huguet et al. [5]
+- Extract the domiance times of the perceptual sequence
+- Fit distributions to the dominance times
+- Fit a model on the distribution of the input firing rates difference $\Delta I$ conditional to the time to percept switch $D$
+- Generate the posterior distribution of the time to change of percept given $\Delta I$
+- Display this distribution on a short simulation of the model
+- Save all the figures presented in the paper in the folder `figures`
 
 
 
