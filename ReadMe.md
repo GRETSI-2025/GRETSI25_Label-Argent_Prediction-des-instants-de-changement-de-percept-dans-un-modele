@@ -1,4 +1,4 @@
-#Disclaimer
+# Disclaimer
 This code is a proof of concept and part of an ongoing work. It is provided for reproducing the results of a published paper.
 __This code is NOT intented for production use__
 
@@ -19,7 +19,7 @@ The PDF of the manuscript submitted to Gretsi 2025 is
 
 The folder **`figures_GRETSI_soumission`** contains the exact figures that are used in the manuscript
 
-The figures geenrated when running the notebook are stored in folder  **`figures`** 
+The figures generated when running the notebook are stored in folder  **`figures`** 
 
 # How to reproduce the results:
 After clonning the repository, open a terminal in the root folder of the project.
