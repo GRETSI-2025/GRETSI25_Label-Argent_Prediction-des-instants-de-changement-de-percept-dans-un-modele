@@ -31,7 +31,7 @@ After cloning the repository, open a terminal in the root folder of the project.
     
     ```Shell
     # Create a new environment
-    conda create --name Grest2025_ID1493
+    conda create --name Grest2025_ID1493 python==3.11.11
     # Activate environment
     conda activate Grest2025_ID1493
     # Install dependencies
