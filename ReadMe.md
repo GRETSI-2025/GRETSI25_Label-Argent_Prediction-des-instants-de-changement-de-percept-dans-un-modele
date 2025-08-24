@@ -1,3 +1,13 @@
+<hr>
+
+**_Dépôt labelisé dans le cadre du [Label Reproductible du GRESTI'25](https://gretsi.fr/colloque2025/recherche-reproductible/)_**
+
+| Label décerné | Auteur | Rapporteur | Éléments reproduits | Liens |
+|:-------------:|:------:|:----------:|:-------------------:|:------|
+| ![](label_argent.png) | Massyl MOUDOUD<br>[@massylmoudoud](https://github.com/massylmoudoud) | Nicolas AUDEBERT<br>[@nshaud](https://github.com/nshaud) |  Figures 2, 3, 4 et 5 | 📌&nbsp;[Dépôt&nbsp;original](https://github.com/massylmoudoud/Vision-3E_Gretsi2025)<br>⚙️&nbsp;[Issue](https://github.com/GRETSI-2025/Label-Reproductible/issues/32)<br>📝&nbsp;[Rapport](https://github.com/akrah/test/tree/main/rapports/Rapport_issue_32) |
+
+<hr>
+
 # Disclaimer
 This code is a proof of concept and part of an ongoing work. It is provided for reproducing the results of a published paper.
 
